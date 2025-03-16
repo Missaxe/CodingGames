@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CodingGames/1.0.0": {
+        "dependencies": {
+          "System.Reflection.Metadata": "9.0.1"
+        },
+        "runtime": {
+          "CodingGames.dll": {}
+        }
+      },
+      "System.Reflection.Metadata/9.0.1": {}
+    }
+  },
+  "libraries": {
+    "CodingGames/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Reflection.Metadata/9.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XGkA0wiS4vbZu708VtlgSh40stW2ucDriDItkiJUnnp867x5HaBfmoTqdA00DYG0Ld7Kg0cLvEPkUEUxputgzQ==",
+      "path": "system.reflection.metadata/9.0.1",
+      "hashPath": "system.reflection.metadata.9.0.1.nupkg.sha512"
+    }
+  }
+}

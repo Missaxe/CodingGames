@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ga10Z8gOFB8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\CodingGames\\CodingGames\\CodingGames.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\system.reflection.metadata\\9.0.1\\system.reflection.metadata.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

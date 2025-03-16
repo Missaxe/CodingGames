@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\CodingGames\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5EC617-083C-429B-9519-E1B143E2AF6A}|CodingGames\\CodingGames.csproj|c:\\users\\hp\\source\\repos\\codinggames\\codinggames\\drawhours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5EC617-083C-429B-9519-E1B143E2AF6A}|CodingGames\\CodingGames.csproj|solutionrelative:codinggames\\drawhours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5EC617-083C-429B-9519-E1B143E2AF6A}|CodingGames\\CodingGames.csproj|c:\\users\\hp\\source\\repos\\codinggames\\codinggames\\patternpixel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5EC617-083C-429B-9519-E1B143E2AF6A}|CodingGames\\CodingGames.csproj|solutionrelative:codinggames\\patternpixel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5EC617-083C-429B-9519-E1B143E2AF6A}|CodingGames\\CodingGames.csproj|c:\\users\\hp\\source\\repos\\codinggames\\codinggames\\piiii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5EC617-083C-429B-9519-E1B143E2AF6A}|CodingGames\\CodingGames.csproj|solutionrelative:codinggames\\piiii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5EC617-083C-429B-9519-E1B143E2AF6A}|CodingGames\\CodingGames.csproj|c:\\users\\hp\\source\\repos\\codinggames\\codinggames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5EC617-083C-429B-9519-E1B143E2AF6A}|CodingGames\\CodingGames.csproj|solutionrelative:codinggames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CodingGames\\CodingGames\\Program.cs",
+              "RelativeDocumentMoniker": "CodingGames\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CodingGames\\CodingGames\\Program.cs",
+              "RelativeToolTip": "CodingGames\\Program.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAUwI0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T12:58:37.183Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatternPixel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CodingGames\\CodingGames\\PatternPixel.cs",
+              "RelativeDocumentMoniker": "CodingGames\\PatternPixel.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CodingGames\\CodingGames\\PatternPixel.cs",
+              "RelativeToolTip": "CodingGames\\PatternPixel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:54:41.235Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DrawHours.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CodingGames\\CodingGames\\DrawHours.cs",
+              "RelativeDocumentMoniker": "CodingGames\\DrawHours.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CodingGames\\CodingGames\\DrawHours.cs",
+              "RelativeToolTip": "CodingGames\\DrawHours.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:25:39.404Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PIIII.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CodingGames\\CodingGames\\PIIII.cs",
+              "RelativeDocumentMoniker": "CodingGames\\PIIII.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CodingGames\\CodingGames\\PIIII.cs",
+              "RelativeToolTip": "CodingGames\\PIIII.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:50:14.11Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

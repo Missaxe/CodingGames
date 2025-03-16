@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\CodingGames\CodingGames\bin\Debug\net9.0\CodingGames.exe
+C:\Users\hp\source\repos\CodingGames\CodingGames\bin\Debug\net9.0\CodingGames.deps.json
+C:\Users\hp\source\repos\CodingGames\CodingGames\bin\Debug\net9.0\CodingGames.runtimeconfig.json
+C:\Users\hp\source\repos\CodingGames\CodingGames\bin\Debug\net9.0\CodingGames.dll
+C:\Users\hp\source\repos\CodingGames\CodingGames\bin\Debug\net9.0\CodingGames.pdb
+C:\Users\hp\source\repos\CodingGames\CodingGames\obj\Debug\net9.0\CodingGames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\CodingGames\CodingGames\obj\Debug\net9.0\CodingGames.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CodingGames\CodingGames\obj\Debug\net9.0\CodingGames.AssemblyInfo.cs
+C:\Users\hp\source\repos\CodingGames\CodingGames\obj\Debug\net9.0\CodingGames.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CodingGames\CodingGames\obj\Debug\net9.0\CodingGames.dll
+C:\Users\hp\source\repos\CodingGames\CodingGames\obj\Debug\net9.0\refint\CodingGames.dll
+C:\Users\hp\source\repos\CodingGames\CodingGames\obj\Debug\net9.0\CodingGames.pdb
+C:\Users\hp\source\repos\CodingGames\CodingGames\obj\Debug\net9.0\CodingGames.genruntimeconfig.cache
+C:\Users\hp\source\repos\CodingGames\CodingGames\obj\Debug\net9.0\ref\CodingGames.dll
